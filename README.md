@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/zeeshanbhati99/">
-  <img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Linkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 &nbsp
 <a href="https://github.com/zeeshanbhati">
