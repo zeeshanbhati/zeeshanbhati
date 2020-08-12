@@ -10,7 +10,7 @@
 </a>
  &nbsp 
 <a href="https://www.hackerrank.com/18ce008">
-  <img align="center" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="center" alt="Hackerrank" width="22px" src="https://user-images.githubusercontent.com/53969232/90065896-96584480-dd0a-11ea-82ec-18c0ad5eae34.png" />
 </a>
 &nbsp
 <a href="https://twitter.com/zeeshan__07">
