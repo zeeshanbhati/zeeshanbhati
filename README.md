@@ -18,7 +18,7 @@
 </a>
 &nbsp
 <br\>
-<br\>
+
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Cloud and React
 - 🤔 I’m looking for help with Cloud
