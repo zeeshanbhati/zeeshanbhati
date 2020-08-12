@@ -14,7 +14,7 @@
 </a>
 &nbsp
 <a href="https://twitter.com/zeeshan__07">
-  <img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
 &nbsp
 <br\>
