@@ -16,8 +16,10 @@
 <a href="https://twitter.com/zeeshan__07">
   <img align="center" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
-&nbsp
-<br\>
+
+<br/>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zeeshanbhati.zeeshanbhati)
 
 ---
 
