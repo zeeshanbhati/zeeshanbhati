@@ -18,6 +18,8 @@
 - 📫 How to reach me **zeeshanbhati99@gmail.com**
 
 - ⚡ Fun fact **Life is a VCS without revert and reset**
+
+<h3 align="left">Contact me:</h3>
 <a href="https://www.linkedin.com/in/zeeshanbhati99/">
   <img align="center" alt="Linkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
