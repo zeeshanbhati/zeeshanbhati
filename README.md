@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Zeeshan</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanbhati&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanbhati" /> </p>
 
-- 🔭 I’m currently working on **React and Python**
+- 🔭 I’m currently working on **NEXT.JS , .NET CORE , NODE.JS**
 
-- 🌱 I’m currently learning **React,Cloud**
+- 🌱 I’m currently learning **System Architecture**
 
-- 👯 I’m looking to collaborate on **React & Flutter**
+- 👯 I’m looking to collaborate on **Anything**
 
-- 🤝 I’m looking for help with **Cloud**
+- 🤝 I’m looking for help with **System Designs**
 
 - 👨‍💻 All of my projects are available at [https://zeeshanbhati.github.io](https://zeeshanbhati.github.io)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **AWS**
 
 - 📫 How to reach me **zeeshanbhati99@gmail.com**
 
