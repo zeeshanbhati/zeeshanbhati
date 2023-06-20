@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanbhati&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanbhati" /> </p>
 
-- 🔭 I’m currently working on **NEXT.JS , .NET CORE , NODE.JS**
+- 🔭 I’m currently working on **NEXT.JS, React.JS, .NET CORE, NODE.JS, Docker, MYSQL**
 
-- 🌱 I’m currently learning **System Architecture**
+- 🌱 I’m currently learning **Kubernetes and Terraform**
 
 - 👯 I’m looking to collaborate on **Anything**
 
-- 🤝 I’m looking for help with **System Designs**
+- 🤝 I’m looking for help with **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://zeeshanbhati.github.io](https://zeeshanbhati.github.io)
 
