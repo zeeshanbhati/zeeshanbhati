@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **AWS**
 
-- 📫 How to reach me **zeeshanbhati.work@gmail.com**
+- 📫 How to reach me **work@zeeshanbhati.dev**
 
 - ⚡ Fun fact **Life is a VCS without revert and reset**
 
