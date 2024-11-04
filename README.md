@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://zeeshanbhati.github.io](https://zeeshanbhati.github.io)
+- 👨‍💻 All of my projects are available at [https://zeeshanbhati.dev](https://zeeshanbhati.dev)
 
 - 💬 Ask me about **AWS**
 
